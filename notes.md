@@ -2,9 +2,10 @@ GIT with Python:
 
 Install GIT
 Create account in github.com
-Create git-python-app folder and open it. add app.py
+Create git-python-app folder and open it. add app.py and write code
 
-GIT allows source control to main as a central repo online
+add gitignore file to root of the app and write rules
+
 
 //manually to add to github
 dsrmurthysoftare@gmail.com/boston@786
