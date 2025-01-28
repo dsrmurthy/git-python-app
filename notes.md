@@ -47,4 +47,6 @@ enter commit message: test file added
 click commit buttton or right symbol.
 click sync changes - select Yes
 Open github.com and see changes (files added)
-  
+
+To Delete a repo, click settings button,  select repo name  and go to last section ,click delete repo and confirm by entering password.
+-------------------------------------------------------
