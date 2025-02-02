@@ -1,0 +1,12 @@
+python-app : 20312  root - DEBUG -Debug Error occured in code .. - 2025-02-01 15:36:34,134
+python-app : 20312  root - INFO -Info: Admin logged in - 2025-02-01 15:36:34,135
+python-app : 20312  root - WARNING -warning: less hard disk space .... check it - 2025-02-01 15:36:34,135
+python-app : 20312  root - ERROR -Error: file not found exception  - 2025-02-01 15:36:34,135
+python-app : 20312  root - CRITICAL -Critical : app crashed - 2025-02-01 15:36:34,135
+python-app : 20312  root - INFO - Murthy has loggin in - 2025-02-01 15:36:34,136
+python-app : 20312  root - ERROR -Exception occured  - 2025-02-01 15:36:34,136
+Traceback (most recent call last):
+  File "c:\python-app\day2\logdemo.py", line 21, in <module>
+    c=a/b
+      ~^~
+ZeroDivisionError: division by zero
