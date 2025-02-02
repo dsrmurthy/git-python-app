@@ -167,7 +167,7 @@ Binary serialization: bits and bytes (0,1's)
      transferring the data on network system gives performance
      easy to use
 
-     
+
 
 import pickle
 
@@ -177,3 +177,15 @@ flattening, marshalling,seralizing......
 x : only python objects can be pickled and other languages can not read pickled data
 
 pickle.pickleException    unpickleException
+===================================
+
+Database world:
+python can connect to any type of database including 32 bit ODBC
+
+2 ways:
+  1. SQL way
+  2. ORM way - Object Relation Mapping (Table - class of python )
+        sqlalchemy - orm tool  - save,update,delete fetch
+
+
+     
