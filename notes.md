@@ -160,3 +160,20 @@ json.dumps()
 Serialization and deser:
 file,database,socket
 memory,file, db
+---------------------------------
+Binary serialization: bits and bytes (0,1's) 
+     security - the file is not readable.
+     size of the file is reduced by 20 - 30%
+     transferring the data on network system gives performance
+     easy to use
+
+     
+
+import pickle
+
+Pickling is a process of serializing python objects(list,dict,tuple,custom type) by coverting into bits and bytes (0,1)
+flattening, marshalling,seralizing......
+
+x : only python objects can be pickled and other languages can not read pickled data
+
+pickle.pickleException    unpickleException

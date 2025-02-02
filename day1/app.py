@@ -17,7 +17,7 @@ def  greet(ename):
     print(type(data))
     print(data)
     emps=[
-        {'eno' : 101,'ename': 'Laxmi'},
+        {'eno' : 101,'ename': 'Laxme'},
          {'eno' : 102,'ename': 'Murthy'}
     ]
     print(type(emps))
