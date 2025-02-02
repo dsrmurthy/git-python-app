@@ -186,6 +186,6 @@ python can connect to any type of database including 32 bit ODBC
   1. SQL way
   2. ORM way - Object Relation Mapping (Table - class of python )
         sqlalchemy - orm tool  - save,update,delete fetch
-
+==============================================
 
      
