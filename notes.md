@@ -143,3 +143,20 @@ reader and writer  reads lin eby line
 dictReader and dictWriter : 
 
 
+Working with JSON data:
+
+REST API:
+Packages:  http calls 
+requests lib
+urllib3
+httplib2
+
+json  = json.loads()
+json.load()
+json.dump()
+json.dumps()
+
+
+Serialization and deser:
+file,database,socket
+memory,file, db
